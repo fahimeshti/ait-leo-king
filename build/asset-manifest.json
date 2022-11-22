@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38b064a0.css",
+    "main.js": "/static/js/main.88672d0b.js",
+    "static/css/742.f1f93ae7.chunk.css": "/static/css/742.f1f93ae7.chunk.css",
+    "static/js/742.e968b19e.chunk.js": "/static/js/742.e968b19e.chunk.js",
+    "static/js/140.d18dd467.chunk.js": "/static/js/140.d18dd467.chunk.js",
+    "static/media/white_brick.jpg": "/static/media/white_brick.ec57c900d2c9ea04f87b.jpg",
+    "static/media/product_1.jpg": "/static/media/product_1.72f691442eea6fdabe0c.jpg",
+    "static/media/gallery10.jpg": "/static/media/gallery10.3c2ed20d8e9d5473d9e6.jpg",
+    "static/media/gallery4.jpg": "/static/media/gallery4.9ffa5dbdfdf67030c726.jpg",
+    "static/media/gallery8.jpg": "/static/media/gallery8.ef7889692f60238305aa.jpg",
+    "static/media/gallery11.jpg": "/static/media/gallery11.06d0ffd94812dcf35224.jpg",
+    "static/media/gallery5.jpg": "/static/media/gallery5.4e51307590b7409d67c9.jpg",
+    "static/media/gallery6.jpg": "/static/media/gallery6.c2239ffa8f911a6bfa44.jpg",
+    "static/media/lk1.jpg": "/static/media/lk1.31824f26214819c3b8b2.jpg",
+    "static/media/gallery7.jpg": "/static/media/gallery7.2b831db3afb1fcf72b19.jpg",
+    "static/media/gallery9.jpg": "/static/media/gallery9.d3ffec508661f28c01eb.jpg",
+    "static/media/about.jpg": "/static/media/about.baf7110417848cca0e68.jpg",
+    "static/media/gallery1.jpg": "/static/media/gallery1.baf7110417848cca0e68.jpg",
+    "static/media/lk3.jpg": "/static/media/lk3.e70e669b4eef9bb184cf.jpg",
+    "static/media/product_4.jpg": "/static/media/product_4.9367247658dac6b41991.jpg",
+    "static/media/lk2.jpg": "/static/media/lk2.b25821889171b31861ee.jpg",
+    "static/media/gallery2.jpg": "/static/media/gallery2.530e7e0e8bb9fb24159b.jpg",
+    "static/media/logo.jpg": "/static/media/logo.96cd89be431e6be14b61.jpg",
+    "static/media/gallery3.jpg": "/static/media/gallery3.abb208c49743c9b5189a.jpg",
+    "static/media/summer-blooms.png": "/static/media/summer-blooms.ab6385e9522b6fc2eb08.png",
+    "index.html": "/index.html",
+    "main.38b064a0.css.map": "/static/css/main.38b064a0.css.map",
+    "main.88672d0b.js.map": "/static/js/main.88672d0b.js.map",
+    "742.f1f93ae7.chunk.css.map": "/static/css/742.f1f93ae7.chunk.css.map",
+    "742.e968b19e.chunk.js.map": "/static/js/742.e968b19e.chunk.js.map",
+    "140.d18dd467.chunk.js.map": "/static/js/140.d18dd467.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38b064a0.css",
+    "static/js/main.88672d0b.js"
+  ]
+}

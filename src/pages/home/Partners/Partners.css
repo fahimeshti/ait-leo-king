@@ -1,0 +1,7 @@
+.image{
+    background-color: #ececec;
+}
+.image:hover{
+    cursor:pointer;
+    background-color: #c6c5c5;
+}

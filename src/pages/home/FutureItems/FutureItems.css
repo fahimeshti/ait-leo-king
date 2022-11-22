@@ -1,0 +1,10 @@
+.font1{
+    font-size: 13px;
+}
+.offer{
+    filter: grayscale(100%)
+}
+.offer:hover{
+    filter: grayscale(0);
+    cursor: pointer;
+}

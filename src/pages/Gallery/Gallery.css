@@ -1,0 +1,18 @@
+.gallery{
+   
+}
+.gallery img{
+    height: 200px;
+   width: 500px;
+}
+.title-area{
+    background: #464646 none repeat scroll 0 0;
+    bottom: -26px;
+    color: #ffffff;
+    display: block;
+    font-size: 13px;
+    line-height: 27px;
+    text-align: center;
+    
+    z-index: 1;
+}

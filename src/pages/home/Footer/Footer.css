@@ -1,0 +1,18 @@
+.aboutus{
+    color: white;
+    background-color: #333333;
+}
+.offerDiv{
+    z-index:1;
+    margin-top: -70px;
+    background: white
+}
+.link{
+    height: 50px;
+    padding-left: 5px;
+    filter: grayscale(100%)
+}
+.link:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}

@@ -1,0 +1,51 @@
+p{
+    color: #959595;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 26px;
+    margin: 0 0 12px;
+   
+
+}
+.text-justify {
+    text-align: justify;
+}
+.about-banner{
+    position: relative;;
+  
+}
+.about-banner::after{
+    border: 1px solid #ffffff;
+    bottom: 5px;
+    content: "";
+    left: 4px;
+    position: absolute;
+    right: 4px;
+    top: 5px;
+}
+.about-text h1{
+    color: #222222;
+    font-size: 21px;
+    line-height: 16px;
+    margin-bottom: 17px;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.why-text h1{
+
+    color: #222222;
+    font-size: 21px;
+    line-height: 16px;
+    margin-bottom: 17px;
+    text-transform: uppercase;
+    padding-top: 20px;
+
+}
+.gallery-area h1{
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    color: #303030;
+    font-size: 24px;
+}
+
